@@ -47,6 +47,14 @@ student-management-system/
 └── docs/             # 项目文档
 ```
 
+
+![image](https://github.com/user-attachments/assets/915adcc8-1e34-4ac2-9a5d-827d6462cb5d)
+![image](https://github.com/user-attachments/assets/da57e9de-24ea-4a09-99a6-7d7735623a38)
+![image](https://github.com/user-attachments/assets/a4a533c4-a3b9-49e0-9173-78fa580d9533)
+![image](https://github.com/user-attachments/assets/b218a0a6-ab53-4766-a693-0cc02252c2cb)
+![image](https://github.com/user-attachments/assets/b8dc52ff-c144-4a12-966c-3ff7d84d4c01)
+
+
 ## 贡献指南
 欢迎提交问题和功能请求。如果您想贡献代码，请遵循以下步骤：
 1. Fork 项目
